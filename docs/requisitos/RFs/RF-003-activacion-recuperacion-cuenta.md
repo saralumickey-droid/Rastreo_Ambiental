@@ -60,5 +60,3 @@ El sistema debe permitir activar cuentas mediante un enlace enviado por correo y
 | **POST** | `/api/v1/auth/activar-cuenta` | No | Valida el enlace de activación. |
 | **POST** | `/api/v1/auth/recuperar-clave` | No | Solicita recuperación. |
 | **POST** | `/api/v1/auth/restablecer-clave` | No | Restablece la contraseña. |
-
-**Nota:** Las rutas y los ejemplos de entrada/salida son propuestas de documentación. Deben ajustarse a los nombres de campos, permisos y endpoints realmente implementados en Rastreo Ambiental. No deben documentarse como funciones existentes si aún no están desarrolladas.
