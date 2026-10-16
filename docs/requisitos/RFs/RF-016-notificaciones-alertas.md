@@ -59,4 +59,3 @@ El sistema debe informar a los usuarios sobre novedades relevantes relacionadas 
 | **GET** | `/api/v1/notificaciones` | Sí | Consulta notificaciones del usuario. |
 | **PATCH** | `/api/v1/notificaciones/{id}/leida` | Sí | Marca una notificación como leída. |
 
-**Nota:** Las rutas y los ejemplos de entrada/salida son propuestas de documentación. Deben ajustarse a los nombres de campos, permisos y endpoints realmente implementados en Rastreo Ambiental. No deben documentarse como funciones existentes si aún no están desarrolladas.
