@@ -1,4 +1,4 @@
-# HU-020 — Mantenimiento y recursos operativos de la flota
+# HU-020 — Mantenimiento y recursos operativos del camion
 
 ## Identificación
 
