@@ -64,5 +64,3 @@ El sistema debe autenticar usuarios mediante sus credenciales, permitir el cierr
 |---|---|---|---|
 | **POST** | `/api/v1/auth/login` | No | Autentica al usuario. |
 | **POST** | `/api/v1/auth/logout` | Sí, según implementación | Cierra la sesión. |
-
-**Nota:** Las rutas y los ejemplos de entrada/salida son propuestas de documentación. Deben ajustarse a los nombres de campos, permisos y endpoints realmente implementados en Rastreo Ambiental. No deben documentarse como funciones existentes si aún no están desarrolladas.
