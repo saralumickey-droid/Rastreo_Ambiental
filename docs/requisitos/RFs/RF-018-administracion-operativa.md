@@ -64,4 +64,3 @@ El sistema debe permitir a los roles autorizados administrar los registros de ca
 | **PUT** | `/api/v1/camiones/{id_camion}` | Administrador autorizado | Actualiza un camión. |
 | **GET** | `/api/v1/conductores` | Administrador autorizado | Lista conductores. |
 
-**Nota:** Las rutas y los ejemplos de entrada/salida son propuestas de documentación. Deben ajustarse a los nombres de campos, permisos y endpoints realmente implementados en Rastreo Ambiental. No deben documentarse como funciones existentes si aún no están desarrolladas.
