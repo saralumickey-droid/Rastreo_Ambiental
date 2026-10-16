@@ -66,5 +66,3 @@ El sistema debe mostrar puntos de reciclaje y centros de acopio en el mapa y per
 |---|---|---|---|
 | **GET** | `/api/v1/puntos-reciclaje` | Según política | Lista puntos de reciclaje. |
 | **GET** | `/api/v1/puntos-reciclaje/{id_punto}` | Según política | Consulta detalle. |
-
-**Nota:** Las rutas y los ejemplos de entrada/salida son propuestas de documentación. Deben ajustarse a los nombres de campos, permisos y endpoints realmente implementados en Rastreo Ambiental. No deben documentarse como funciones existentes si aún no están desarrolladas.
