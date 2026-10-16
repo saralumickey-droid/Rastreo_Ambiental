@@ -21,7 +21,7 @@
 
 ## Criterios de Aceptación
 
-### CA-018.1 — Consultar flota
+### CA-018.1 — Consultar camion
 
 - **Dado que** tengo permisos administrativos,
 - **cuando** abro el módulo de camiones,
@@ -29,7 +29,7 @@
 
 ### CA-018.2 — Registrar camión
 
-- **Dado que** tengo permisos para administrar la flota,
+- **Dado que** tengo permisos para administrar el camion,
 - **cuando** ingreso datos válidos de un camión,
 - **entonces** el sistema debe guardar el vehículo.
 
@@ -68,5 +68,5 @@
 ## Notas técnicas
 
 - Las placas y documentos identificadores deben validarse y evitar duplicados.
-- Solo roles autorizados pueden gestionar la flota.
+- Solo roles autorizados pueden gestionar camion.
 - Las asignaciones deben relacionar registros existentes.
