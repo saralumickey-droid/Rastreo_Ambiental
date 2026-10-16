@@ -61,5 +61,3 @@ El sistema debe guardar preferencias disponibles, como idioma y notificaciones, 
 | **GET** | `/api/v1/usuarios/preferencias` | Sí | Consulta preferencias. |
 | **PUT** | `/api/v1/usuarios/preferencias` | Sí | Actualiza preferencias. |
 | **POST** | `/api/v1/usuarios/aceptacion-terminos` | Según flujo | Registra aceptación. |
-
-**Nota:** Las rutas y los ejemplos de entrada/salida son propuestas de documentación. Deben ajustarse a los nombres de campos, permisos y endpoints realmente implementados en Rastreo Ambiental. No deben documentarse como funciones existentes si aún no están desarrolladas.
