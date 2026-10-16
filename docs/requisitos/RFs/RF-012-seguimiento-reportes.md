@@ -61,5 +61,3 @@ El sistema debe permitir consultar el historial y estado de los reportes del usu
 | **GET** | `/api/v1/reportes/mis-reportes` | Sí | Lista reportes del usuario. |
 | **GET** | `/api/v1/reportes/{id_reporte}` | Sí, con autorización | Consulta detalle. |
 | **PATCH** | `/api/v1/reportes/{id_reporte}/estado` | Rol autorizado | Actualiza estado. |
-
-**Nota:** Las rutas y los ejemplos de entrada/salida son propuestas de documentación. Deben ajustarse a los nombres de campos, permisos y endpoints realmente implementados en Rastreo Ambiental. No deben documentarse como funciones existentes si aún no están desarrolladas.
