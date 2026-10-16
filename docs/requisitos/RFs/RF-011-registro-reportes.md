@@ -63,5 +63,3 @@ El sistema debe permitir que los ciudadanos registren incidencias relacionadas c
 | **Método** | **Ruta propuesta** | **Autenticación requerida** | **Descripción** |
 |---|---|---|---|
 | **POST** | `/api/v1/reportes` | Sí | Registra un reporte ciudadano. |
-
-**Nota:** Las rutas y los ejemplos de entrada/salida son propuestas de documentación. Deben ajustarse a los nombres de campos, permisos y endpoints realmente implementados en Rastreo Ambiental. No deben documentarse como funciones existentes si aún no están desarrolladas.
