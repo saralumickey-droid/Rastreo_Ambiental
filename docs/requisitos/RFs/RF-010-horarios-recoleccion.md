@@ -65,4 +65,3 @@ Horarios y estimación disponible, o aviso de que no puede calcularse.
 | **GET** | `/api/v1/rutas/{id_ruta}/horarios` | Según política | Consulta horarios. |
 | **GET** | `/api/v1/camiones/{id_camion}/estimacion` | Según política | Consulta ETA disponible. |
 
-**Nota:** Las rutas y los ejemplos de entrada/salida son propuestas de documentación. Deben ajustarse a los nombres de campos, permisos y endpoints realmente implementados en Rastreo Ambiental. No deben documentarse como funciones existentes si aún no están desarrolladas.
