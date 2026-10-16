@@ -75,5 +75,3 @@ El sistema debe permitir consultar rutas y zonas de cobertura y, a los roles aut
 | **GET** | `/api/v1/rutas/{id_ruta}` | Según política | Consulta una ruta. |
 | **POST** | `/api/v1/rutas` | Rol autorizado | Crea una ruta. |
 | **PUT** | `/api/v1/rutas/{id_ruta}` | Rol autorizado | Actualiza una ruta. |
-
-**Nota:** Las rutas y los ejemplos de entrada/salida son propuestas de documentación. Deben ajustarse a los nombres de campos, permisos y endpoints realmente implementados en Rastreo Ambiental. No deben documentarse como funciones existentes si aún no están desarrolladas.
