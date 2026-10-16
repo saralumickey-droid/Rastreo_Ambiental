@@ -64,5 +64,3 @@ El sistema debe presentar estadísticas basadas en los datos disponibles para ap
 | **GET** | `/api/v1/estadisticas` | Administrador o funcionario autorizado | Consulta indicadores. |
 | **GET** | `/api/v1/informes` | Administrador o funcionario autorizado | Lista informes disponibles. |
 | **GET** | `/api/v1/informes/exportar` | Administrador o funcionario autorizado | Exporta si está implementado. |
-
-**Nota:** Las rutas y los ejemplos de entrada/salida son propuestas de documentación. Deben ajustarse a los nombres de campos, permisos y endpoints realmente implementados en Rastreo Ambiental. No deben documentarse como funciones existentes si aún no están desarrolladas.
