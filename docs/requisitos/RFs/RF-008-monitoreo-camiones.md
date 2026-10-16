@@ -61,5 +61,3 @@ Listado y marcadores de camiones con la última ubicación disponible.
 |---|---|---|---|
 | **GET** | `/api/v1/camiones/ubicaciones` | Según política | Consulta ubicaciones de camiones. |
 | **GET** | `/api/v1/camiones/{id_camion}` | Según política | Consulta detalle de un camión. |
-
-**Nota:** Las rutas y los ejemplos de entrada/salida son propuestas de documentación. Deben ajustarse a los nombres de campos, permisos y endpoints realmente implementados en Rastreo Ambiental. No deben documentarse como funciones existentes si aún no están desarrolladas.
