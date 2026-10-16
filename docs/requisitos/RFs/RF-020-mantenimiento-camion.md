@@ -1,4 +1,4 @@
-# RF — 020 — Mantenimiento y recursos operativos de la flota
+# RF — 020 — Mantenimiento y recursos operativos del camion
 
 **Historia de usuario relacionada:** HU-021
 
@@ -61,5 +61,3 @@ El sistema debe permitir registrar y consultar información de mantenimiento y o
 |---|---|---|---|
 | **GET** | `/api/v1/camiones/{id_camion}/mantenimiento` | Rol autorizado | Consulta historial de mantenimiento. |
 | **POST** | `/api/v1/camiones/{id_camion}/novedades` | Rol autorizado | Registra una novedad. |
-
-**Nota:** Las rutas y los ejemplos de entrada/salida son propuestas de documentación. Deben ajustarse a los nombres de campos, permisos y endpoints realmente implementados en Rastreo Ambiental. No deben documentarse como funciones existentes si aún no están desarrolladas.
