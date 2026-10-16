@@ -54,4 +54,3 @@ Mapa interactivo con controles y capas informativas.
 |---|---|---|---|
 | **GET** | `/api/v1/mapa/datos` | Según política | Obtiene las capas de datos propias del mapa. |
 
-**Nota:** Las rutas y los ejemplos de entrada/salida son propuestas de documentación. Deben ajustarse a los nombres de campos, permisos y endpoints realmente implementados en Rastreo Ambiental. No deben documentarse como funciones existentes si aún no están desarrolladas.
