@@ -60,5 +60,3 @@ El sistema debe presentar información de contacto de las entidades de aseo y co
 | **GET** | `/api/v1/entidades-aseo/contacto` | Según política | Consulta contactos. |
 | **GET** | `/api/v1/avisos` | Según política | Consulta avisos. |
 | **POST** | `/api/v1/avisos` | Rol autorizado | Publica un aviso. |
-
-**Nota:** Las rutas y los ejemplos de entrada/salida son propuestas de documentación. Deben ajustarse a los nombres de campos, permisos y endpoints realmente implementados en Rastreo Ambiental. No deben documentarse como funciones existentes si aún no están desarrolladas.
