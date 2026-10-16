@@ -66,4 +66,3 @@ El sistema debe permitir registrar usuarios con nombre, correo electrónico y co
 |---|---|---|---|
 | **POST** | `/api/v1/usuarios/registro` | No | Registra un usuario. |
 
-**Nota:** Las rutas y los ejemplos de entrada/salida son propuestas de documentación. Deben ajustarse a los nombres de campos, permisos y endpoints realmente implementados en Rastreo Ambiental. No deben documentarse como funciones existentes si aún no están desarrolladas.
