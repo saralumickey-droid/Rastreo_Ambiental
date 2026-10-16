@@ -62,5 +62,3 @@ El sistema debe permitir consultar y actualizar datos personales y administrar c
 | **PUT** | `/api/v1/usuarios/perfil` | Sí | Actualiza datos personales. |
 | **GET** | `/api/v1/usuarios` | Administrador | Lista usuarios. |
 | **PATCH** | `/api/v1/usuarios/{id}/estado` | Administrador | Suspende o reactiva una cuenta. |
-
-**Nota:** Las rutas y los ejemplos de entrada/salida son propuestas de documentación. Deben ajustarse a los nombres de campos, permisos y endpoints realmente implementados en Rastreo Ambiental. No deben documentarse como funciones existentes si aún no están desarrolladas.
