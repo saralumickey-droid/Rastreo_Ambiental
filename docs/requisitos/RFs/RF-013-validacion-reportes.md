@@ -61,4 +61,3 @@ El sistema debe permitir que funcionarios autorizados revisen reportes, comprueb
 | **GET** | `/api/v1/reportes/pendientes` | Funcionario o administrador | Lista reportes por revisar. |
 | **PATCH** | `/api/v1/reportes/{id_reporte}/prioridad` | Funcionario o administrador | Actualiza prioridad. |
 
-**Nota:** Las rutas y los ejemplos de entrada/salida son propuestas de documentación. Deben ajustarse a los nombres de campos, permisos y endpoints realmente implementados en Rastreo Ambiental. No deben documentarse como funciones existentes si aún no están desarrolladas.
