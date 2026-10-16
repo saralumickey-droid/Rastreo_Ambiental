@@ -54,5 +54,3 @@ Marcador con la ubicación actual, si el usuario concede permiso.
 ## Endpoint
 
 Esta función puede realizarse desde el cliente y no requiere un endpoint propio, salvo que el backend deba guardar o consultar información asociada.
-
-**Nota:** Las rutas y los ejemplos de entrada/salida son propuestas de documentación. Deben ajustarse a los nombres de campos, permisos y endpoints realmente implementados en Rastreo Ambiental. No deben documentarse como funciones existentes si aún no están desarrolladas.
